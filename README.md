@@ -1,6 +1,6 @@
 ## About
 
-I am a **_INSERT ROLE HERE_** at Hack4Impact!
+I am an **Academy Member** at Hack4Impact!
 
 ## My Profile
 
@@ -9,13 +9,13 @@ I am a **_INSERT ROLE HERE_** at Hack4Impact!
     <td align="center">
       <a href="tacobell.com">
         <img
-          src="https://data.whicdn.com/images/317675372/original.jpg"
+          src="https://i.redd.it/0ahq55hscqs51.jpg"
           width="500px"
         />
         <br />
-        <b><i>INSERT NAME</i></b>
+        <b><i>Aaron Alexander</i></b>
         <br />
-        <sub><b><i>INSERT ROLE</i></b></sub>
+        <sub><b><i>Awesome Academy Member (TM)</i></b></sub>
       </a>
     </td>
     </tr>
